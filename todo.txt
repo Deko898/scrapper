@@ -1,0 +1,6 @@
+1.SCHEDULER ---> scrape url after N minutes;
+2.RETRY ---> retry failed calls n times and write counts in DB;
+3.UPDATE DB ROWS ONLY IF NEW VALUES ARE DIFFERENT THAN ONES IN DB;
+4.SCREENSHOT OF SCRAPPED URL ---> to find library(for now without this);
+5.REST SERVICES;
+6.FE ---> TO DO;
